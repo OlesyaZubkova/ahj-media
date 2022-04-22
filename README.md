@@ -12,7 +12,7 @@
 
 ---
 
-### Общая легенда
+### Общая легенда [![Build status](https://ci.appveyor.com/api/projects/status/a4jl7gultj9l7s5v?svg=true)](https://ci.appveyor.com/project/OlesyaZubkova/ahj-media)
 
 Вам предстоит создать проект "Timeline" - некую ленту постов человека, где он может прикреплять текстовые посты, а также записывать аудио и видео в привязке к своей геопозиции.
 
